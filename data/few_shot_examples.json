@@ -1,0 +1,10 @@
+[
+    {
+        "email": "From: xxxxx@xxxx.com Subject:【XX】邀请您反馈 content:xxx先生/女士，您好！\n\n感谢您参XXXXX，邀请您对本次体验进行反馈。\n\n问卷链接：http://xxxxx.cn/xxxxx（只需要1~3分钟）\n",
+        "category": "问卷调查"
+    },
+    {
+        "email": "From: xxxx@xxxx.com Subject：【XX】会议邀约 content：\n亲爱的 xxxx，\n感谢您接受我们的邀请，\n我们盼望遇到又一位与众不同的实力派， \n期待与您的会面。",
+        "category": "会议邀请"
+    }
+]
